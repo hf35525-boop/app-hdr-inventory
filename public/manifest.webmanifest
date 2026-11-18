@@ -1,0 +1,10 @@
+{
+  "name": "ALMOX · Estoque, vendas e compras",
+  "short_name": "ALMOX",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f1ec",
+  "theme_color": "#16181d",
+  "lang": "pt-BR",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
